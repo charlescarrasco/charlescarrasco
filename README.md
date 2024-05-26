@@ -1,7 +1,11 @@
-👋 Hi there! I'm Charles Carrasco, a computer science student at California State University, Long Beach. As a passionate programming hobbyist, I dive into various technologies to create exciting web applications. My love for Next.js and all things Cloudflare fuels my curiosity to experiment with new ideas.
+👋 Hello! I'm Charles Carrasco, a recent graduate with a Bachelor's degree in Computer Science from California State University, Long Beach. As a passionate software engineer, I'm excited to connect with others who share my enthusiasm for programming and innovation.
 
-💻 With expertise in JavaScript and its powerful sibling, TypeScript, I enjoy crafting engaging front-end experiences. Whether it's building Todo apps, calendars, blogs, or flashcards, I put my skills to work with frameworks like Next.js and React. As a versatile full-stack developer, I also dabble in Linux server management.
+💻 With a strong foundation in JavaScript and TypeScript, I've developed expertise in crafting engaging front-end experiences using Next.js and React. My experience includes building Todo apps, calendars, blogs, and flashcards, as well as exploring server management with Linux.
 
-⚡ In my spare time, you'll find me tinkering with personal projects, expanding my tech knowledge, and exploring all things techy. With a blend of knowledge, trustworthiness, and a sprinkle of fun, I'm here to make a mark in the coding world.
+✨ In my free time, you can find me working on personal projects, expanding my technical skills, and staying up-to-date with the latest developments in the tech world.
 
-🌐 Let's connect, collaborate, and create amazing software together! Feel free to explore my repositories and get in touch. Let's push the boundaries of what's possible in the digital realm!
+🚀 As a skilled software engineer, I'm confident in my ability to collaborate effectively and drive success through problem-solving and adaptability. My experience in freelance web design has given me a strong understanding of project management, deployment, and optimization for websites.
+
+📈 I've also had the opportunity to work on exciting projects, such as Brainchasm, a brain development game platform for kids, and E-Zee, a personal finance/budget manager. These projects have allowed me to develop my skills in software testing, review techniques, and quality assurance.
+
+🌐 If you're interested in collaborating or exploring new ideas, please don't hesitate to reach out. I'm excited to connect with others who share my passion for technology and innovation.
