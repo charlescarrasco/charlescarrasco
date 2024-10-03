@@ -1,11 +1,9 @@
-👋 Hello! I'm Charles Carrasco, a recent graduate with a Bachelor's degree in Computer Science from California State University, Long Beach. As a passionate software engineer, I'm excited to connect with others who share my enthusiasm for programming and innovation.
+👋 Hi! I'm Charles Carrasco, a recent graduate with a Bachelor's degree in Computer Science from California State University, Long Beach. I'm really interested in working in software development, IT, and cybersecurity, and I'm excited to connect with people who share similar interests.
 
-💻 With a strong foundation in JavaScript and TypeScript, I've developed expertise in crafting engaging front-end experiences using Next.js and React. My experience includes building Todo apps, calendars, blogs, and flashcards, as well as exploring server management with Linux.
+💻 I have experience working with JavaScript, TypeScript, and frameworks like Next.js and React to build websites, blogs, and custom CRMs. I’ve also done server management, including Linux, cloud platforms, and setting up secure systems.
 
-✨ In my free time, you can find me working on personal projects, expanding my technical skills, and staying up-to-date with the latest developments in the tech world.
+✨ Over the past few years, I’ve been freelancing, helping clients with everything from web design to server maintenance, DNS configurations, and even managing email systems. I’ve learned a lot about managing projects, working with clients, and making sure things run smoothly and efficiently.
 
-🚀 As a skilled software engineer, I'm confident in my ability to collaborate effectively and drive success through problem-solving and adaptability. My experience in freelance web design has given me a strong understanding of project management, deployment, and optimization for websites.
+🚀 Lately, I’ve been contracting for a technology company and have also worked on projects like Re-sume.com and Brainstache.com, which have helped me improve my development skills and gain real-world experience. These projects have involved both front-end and back-end work, security setups, and managing everything from start to finish.
 
-📈 I've also had the opportunity to work on exciting projects, such as Brainchasm, a brain development game platform for kids, and E-Zee, a personal finance/budget manager. These projects have allowed me to develop my skills in software testing, review techniques, and quality assurance.
-
-🌐 If you're interested in collaborating or exploring new ideas, please don't hesitate to reach out. I'm excited to connect with others who share my passion for technology and innovation.
+🌐 I’m actively looking for a position where I can use my skills and really enjoy the work I do. If you're looking to collaborate or have opportunities in software, IT, or cybersecurity, I'd love to chat and see how we can work together!
