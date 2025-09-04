@@ -1,9 +1,37 @@
-👋 Hi! I'm Charles Carrasco, a recent graduate with a Bachelor's degree in Computer Science from California State University, Long Beach. I'm really interested in working in software development, IT, and cybersecurity, and I'm excited to connect with people who share similar interests.
+# 👋 Hi — I’m Charles Carrasco
 
-💻 I have experience working with JavaScript, TypeScript, and frameworks like Next.js and React to build websites, blogs, and custom CRMs. I’ve also done server management, including Linux, cloud platforms, and setting up secure systems.
+**Software Engineer · Web Developer · IT & Cybersecurity**  
+📍 California, USA · 🌐 https://charlescarrasco.com
 
-✨ Over the past few years, I’ve been freelancing, helping clients with everything from web design to server maintenance, DNS configurations, and even managing email systems. I’ve learned a lot about managing projects, working with clients, and making sure things run smoothly and efficiently.
+---
 
-🚀 Lately, I’ve been contracting for a technology company and have also worked on projects like Re-sume.com and Brainstache.com, which have helped me improve my development skills and gain real-world experience. These projects have involved both front-end and back-end work, security setups, and managing everything from start to finish.
+## About
+I build simple, secure websites and tools that people can rely on. I work across the front end, back end, and the servers that keep sites running. I like clean work that performs well and is easy to maintain.
 
-🌐 I’m actively looking for a position where I can use my skills and really enjoy the work I do. If you're looking to collaborate or have opportunities in software, IT, or cybersecurity, I'd love to chat and see how we can work together!
+## Tech & Tools
+- JavaScript, TypeScript, React, Next.js  
+- Linux servers, DNS, cloud hosting, backups  
+- Site security, safe deployments, basic monitoring  
+- Custom CRMs and business websites
+
+## Experience
+- Freelance web design and site maintenance for small businesses  
+- Contract work building full-stack apps and secure infrastructure  
+- Founder of Modderday — design, build, and host sites for clients
+
+## Selected Projects
+- Modderday — https://modderday.com — web design, hosting, and support  
+- Resume Builder — https://modderday.com/labs/resume-builder — a lightweight tool I maintain  
+- Brainstache — https://brainstache.com — a trivia game I built and run
+
+## Results
+- 5+ years building and supporting websites  
+- 50+ sites delivered with a focus on uptime and happy clients  
+- Comfortable leading projects from idea to launch and beyond
+
+## How I Work
+I keep things practical. I aim for fast, secure, and easy-to-use solutions. I enjoy collaborating and contributing to projects that matter.
+
+## Contact
+Open to roles and contracts in web development, IT, and security.  
+Website: https://charlescarrasco.com — contact details and portfolio
